@@ -1,5 +1,6 @@
 /*
- * Copyright (c) 2020 The Linux Foundation. All rights reserved.
+ * Copyright (c) 2011-2020, The Linux Foundation. All rights reserved.
+ * Not a Contribution
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are
@@ -106,7 +107,7 @@
 #define HAL_PIXEL_FORMAT_ABGR_2101010 0x11B
 #define HAL_PIXEL_FORMAT_BGRX_1010102 0x11C
 #define HAL_PIXEL_FORMAT_XBGR_2101010 0x11D
-#define HAL_PIXEL_FORMAT_YCbCr_420_P010 0x36  // HAL_PIXEL_FORMAT_YCBCR_P010
+#define HAL_PIXEL_FORMAT_YCbCr_420_P010 0x36  // HAL_PIXEL_FORMAT_YCBCR_P010sss
 #define HAL_PIXEL_FORMAT_YCbCr_420_P010_UBWC 0x124
 #define HAL_PIXEL_FORMAT_YCbCr_420_P010_VENUS 0x7FA30C0A
 
